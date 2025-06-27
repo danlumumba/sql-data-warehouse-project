@@ -1,3 +1,7 @@
+/*
+This scripts creates a new database named DataWarehouse
+*/
+
 #Checking if the Database exists
 SELECT 1
 FROM pg_database
